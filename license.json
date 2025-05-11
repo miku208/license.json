@@ -2,8 +2,8 @@
   "licenses": [
     {
       "key": "MIKU",
-      "status": "non active",
-      "expires": "2025-12-31"
+      "status": "active",
+      "expires": "2025-1-31"
     },
     {
       "key": "VOXX001",
