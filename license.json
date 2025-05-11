@@ -2,7 +2,11 @@
   "licenses": [
     {
       "key": "MIKU",
-      "user": "MIKU-HOSTING",
+      "status": "active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "VOXX001",
       "status": "active",
       "expires": "2025-12-31"
     }
