@@ -1,19 +1,19 @@
 {
   "licenses": [
     { "key": "MIKU", "status": "active", "expires": "2025-12-31" },
-    { "key": "IKU", "user": "miku208", "status": "active", "expires": "2025-12-31" },
+    { "key": "IKU", "status": "non-active", "expires": "2025-12-31" },
     { "key": "hokman", "status": "active", "expires": "2025-12-31" },
-    { "key": "VOXX001", "status": "active", "expires": "2025-12-31" },
-    { "key": "MANDALA", "status": "active", "expires": "2025-12-31" },
-    { "key": "MIKU999", "status": "active", "expires": "2025-12-31" },
-    { "key": "ABC123", "status": "active", "expires": "2025-12-31" },
-    { "key": "DEF456", "status": "active", "expires": "2025-12-31" },
-    { "key": "GHI789", "status": "active", "expires": "2025-12-31" },
-    { "key": "JKL321", "status": "active", "expires": "2025-12-31" },
-    { "key": "MNO654", "status": "active", "expires": "2025-12-31" },
-    { "key": "PQR987", "status": "active", "expires": "2025-12-31" },
-    { "key": "STU111", "status": "active", "expires": "2025-12-31" },
-    { "key": "VWX222", "status": "active", "expires": "2025-12-31" },
-    { "key": "YZA333", "status": "active", "expires": "2025-12-31" }
+    { "key": "VOXX001", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "MANDALA", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "MIKU999", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "ABC123", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "DEF456", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "GHI789", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "JKL321", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "MNO654", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "PQR987", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "STU111", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "VWX222", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "YZA333", "status": "non-active", "expires": "2025-12-31" }
   ]
 }
