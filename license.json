@@ -3,7 +3,7 @@
     { "key": "MIKU", "status": "active", "expires": "2025-12-31" },
     { "key": "dontol", "status": "active", "expires": "2025-12-31" },
     { "key": "hokman", "status": "active", "expires": "2025-12-31" },
-    { "key": "VOXX001", "status": "non-active", "expires": "2025-12-31" },
+    { "key": "rembo", "status": "active", "expires": "2025-12-31" },
     { "key": "sanz", "status": "active", "expires": "2025-12-31" },
     { "key": "MIKU999", "status": "non-active", "expires": "2025-12-31" },
     { "key": "ABC123", "status": "non-active", "expires": "2025-12-31" },
